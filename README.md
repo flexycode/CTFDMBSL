@@ -194,15 +194,19 @@ Professor Mrs. Jensen Santillan is a highly respected academic and industry prac
 ### Fixed 
 - ✨ Fix changelogs
 
-## [11.0.1] - 2025-03-30   
+## [1.0.1] - 2025-03-30   
 ### Added  
 - ✨ Create an Architecture database schema for my last project in DSA
 
-## [11.0.1] - 2025-04-11   
+## [1.0.2] - 2025-04-11   
 ### Added  
 - ✨ Uploaded Module 1
 - ✨ Uploaded Module 2
 - ✨ Uploaded Module 3
+
+## [11.0.1] - 2025-04-21   
+### Added 
+- ✨ Add Activity 3
 
 🧊 CTFDMBSL  
 ```
